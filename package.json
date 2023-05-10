@@ -60,10 +60,10 @@
     "test": "nodeunit test/index.js"
   },
   "dependencies": {
-    "inherits": "^2.0.1",
-    "ws": "^1.1.5",
     "bufferutil": "4.0.1",
-    "utf-8-validate": "4.0.2"
+    "inherits": "^2.0.1",
+    "utf-8-validate": "^6.0.3",
+    "ws": "^1.1.5"
   },
   "devDependencies": {
     "bower": "~1.7.9",
